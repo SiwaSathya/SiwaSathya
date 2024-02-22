@@ -5,7 +5,7 @@
 # 💫 About Me:
 As a backend developer with two years of experience, I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br>
 
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=SiwaSathya&color=447ff7&label=Visitor+count)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -28,6 +28,15 @@ As a backend developer with two years of experience, I've honed my skills in des
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
+## I'm a student at UofT & a Full Stack developer
+
+![Apinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiwaSathya&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiwaSathya&hide_border=true)](https://git.io/streak-stats)
+
+[View my skyline contribution in 3D](https://skyline.github.com/SiwaSathya/2023)
+[Resume](https://drive.google.com/file/d/1RF8Kjd7INjPSKsvQLISNwa2SqWiJCGTQ/view)
+
+[Insights](https://metrics.lecoq.io/insights?user=SiwaSathya)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
