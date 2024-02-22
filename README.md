@@ -23,16 +23,6 @@ As a backend developer with two years of experience, I've honed my skills in des
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## I'm a student at UofT & a Full Stack developer
-
-![Apinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiwaSathya&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiwaSathya&hide_border=true)](https://git.io/streak-stats)
-
-[View my skyline contribution in 3D](https://skyline.github.com/SiwaSathya/2023)
-[Resume](https://drive.google.com/file/d/1RF8Kjd7INjPSKsvQLISNwa2SqWiJCGTQ/view)
-
-[Insights](https://metrics.lecoq.io/insights?user=SiwaSathya)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
